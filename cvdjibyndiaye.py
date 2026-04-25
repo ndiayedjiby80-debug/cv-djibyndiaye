@@ -27,10 +27,12 @@ st.write("""
 
 st.header(" Formation")
 st.write("""
-**Licence en Informatique genie logiciel**  
+**Licence en Informatique genie logiciel** 
+
 Institut Communautaire Africaine de Gestion et d'ingeniereie Amadou Mahtar Mbow
 
 **Technicien superieur en géomatique**
+
 Centre d'entreprenariat et de developpement technique G15
 """)
 
